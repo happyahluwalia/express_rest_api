@@ -22,6 +22,5 @@
     "babel-preset-stage-0": "^6.5.0",
     "backpack-core": "^0.2.0",
     "shelljs": "^0.7.6"
-  },
-  "author": "Carmine DiMascio <cdimascio@gmail.com> (https://github.com/cdimascio)"
+  }
 }
